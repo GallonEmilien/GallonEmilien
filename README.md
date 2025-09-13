@@ -63,6 +63,7 @@ Adds **customizable horses** to Minecraft (enchantable horseshoes, speed dependi
   
 **⭐ Feel free to explore my projects and contact me for any collaboration!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-profi](https://www.linkedin.com/in/emilien-g-076a311b5/)l)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilien-g-076a311b5/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gallonemilien@gmail.com)
+
 </div>
