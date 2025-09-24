@@ -12,7 +12,7 @@
 <tr>
 <td width="50%">
 
-### 🎥 **Real-time video surveillance system**
+### 🎥 **Real-time video surveillance & image processing system**
 **[ESP32 Cam Live Viewer](https://github.com/GallonEmilien/esp32cam-websocket-live-viewer)**
 Live video streaming from an ESP32-Cam to a secure Kotlin server and Angular frontend using WebSockets.
 </td>
